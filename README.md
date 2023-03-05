@@ -30,9 +30,9 @@ Material disponibilizado
 ![2 - Quantos episódios cada diretor participou](https://user-images.githubusercontent.com/47571290/222985507-11efe74c-c9f8-4bb2-81c0-e3fc61a3199d.png)
 3 - Indicação por estrela?
 ![3 - Soma de indicação por estrela](https://user-images.githubusercontent.com/47571290/222985542-121d42ca-96f4-4028-a6f4-ed8d1c1b52a6.png)
-4 - Minutos por temporada?
+4 - Quantos minutos tem cada temporada?
 ![4 - Soma de minutos por temporada](https://user-images.githubusercontent.com/47571290/222985565-1b7b50c1-dd07-4a87-9b05-94f6d61a37e5.png)
-5 - Casas por região
+5 - Quantas casas existem em cada região?
 ![5 - Soma de casas por região](https://user-images.githubusercontent.com/47571290/222985607-ddd49625-ca04-4264-b67c-eee069ed015f.png)
 
  
