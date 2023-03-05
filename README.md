@@ -23,10 +23,9 @@ Material disponibilizado
 </div>
 
 
-## 📦 Perguntas respondidas![1 - quais os 10 personagens que mais aparecem na série](
-
+## 📦 Perguntas respondidas!
 1 - Quais os 10 personagens que mais aparecem na série?
-https://user-images.githubusercontent.com/47571290/222985459-41a49499-b6ef-449b-8a0f-578dae2326f7.png)
+![1 - quais os 10 personagens que mais aparecem na série](https://user-images.githubusercontent.com/47571290/222985654-a3dcaf16-90a4-4eac-b41d-394dc58d608b.png)
 2 - Quantos episódios cada diretor participou?
 ![2 - Quantos episódios cada diretor participou](https://user-images.githubusercontent.com/47571290/222985507-11efe74c-c9f8-4bb2-81c0-e3fc61a3199d.png)
 3 - Indicação por estrela?
