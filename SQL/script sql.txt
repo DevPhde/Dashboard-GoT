@@ -1,0 +1,48 @@
+-- 1- Quais os 10 personagens que mais aparecem na série?
+
+SELECT got.character.Character, got.character.`Actor/ess`, got.character.Episodes_appeared
+FROM got.character 
+GROUP BY got.character.Character, got.character.`Actor/ess`, got.character.Episodes_appeared
+ORDER BY SUM(got.character.Episodes_appeared) DESC
+LIMIT 10;
+
+
+
+-- 2- quantos episodios cada diretor participou? (sao 15 diretores)
+
+select got.episodes.Director, count(*) AS count from got.episodes
+group by director
+order by count DESC;
+
+
+-- 3 - quais os personagens aparecem mais vezes como estrela (star_1, star_2, star_3)
+
+SELECT star_1, COUNT(*) AS star_1_count
+FROM got.episodes
+WHERE star_1 <> ''
+GROUP BY star_1
+ORDER BY star_1_count DESC;
+
+select star_2, COUNT(*) AS star_2_count
+FROM got.episodes
+WHERE star_2 <> ''
+GROUP BY star_2
+ORDER BY star_2_count DESC;
+
+select star_3, COUNT(*) AS star_3_count
+FROM got.episodes
+WHERE star_3 <> ''
+GROUP BY star_3
+ORDER BY star_3_count DESC;
+
+-- 4 - quantidade de minutos total por temporada
+
+SELECT Season, SUM(Duration) AS total_duration
+FROM episodes
+GROUP BY season;
+
+-- 5   Quantidade de casas por região
+
+select houses.Region, count(*) count from houses
+group by houses.region
+order by count desc
