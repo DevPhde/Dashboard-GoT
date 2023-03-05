@@ -35,6 +35,7 @@ Material disponibilizado
 5 - Casas por região
 ![5 - Soma de casas por região](https://user-images.githubusercontent.com/47571290/222985607-ddd49625-ca04-4264-b67c-eee069ed015f.png)
 
+ 
 
-
-![image](https://)
+## 📦 Script SQL!
+O script SQL pode ser encontrado no link: https://github.com/DevPhde/Dashboard-GoT/tree/main/SQL
