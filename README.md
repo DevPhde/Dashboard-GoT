@@ -37,5 +37,5 @@ Material disponibilizado
 
  
 
-## 📦 Script SQL!
-O script SQL pode ser encontrado no link: https://github.com/DevPhde/Dashboard-GoT/tree/main/SQL
+## 📋 Script!
+O script para consulta ao banco de dados pode ser encontrado no link: https://github.com/DevPhde/Dashboard-GoT/tree/main/SQL
