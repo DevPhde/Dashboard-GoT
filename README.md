@@ -11,7 +11,7 @@ Nesse projeto deveria ser montado um dashboard com base no conjunto de dados esc
 O conjunto de dados foi sobre Game of Thrones, e fornecidos pelo link abaixo, a fim de realizar uma apresentação com a exploração dos dados.
 
 Material disponibilizado
-⇨ O conjunto de dados disponíveis podem ser encontrados aqui: <https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC?usp=sharing> 
+⇨ O conjunto de dados disponíveis podem ser encontrados nesse link: <https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC?usp=sharing> e fornecidos pela Resília 
 
 
 ## 📋 Tecnologias utilizadas
@@ -23,9 +23,9 @@ Material disponibilizado
 </div>
 
 
-## 📦 Desenvolvimento
+<!--## 📦 Desenvolvimento
 
-Utilizei ...
+Utilizei ...-->
 
 
 
