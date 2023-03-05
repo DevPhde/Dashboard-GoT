@@ -1,6 +1,6 @@
 # Projeto Resília - Módulo 4 - Visualizando a situação
 
-## Contexto
+## 📌Contexto
 
 Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados.
 
@@ -37,5 +37,5 @@ Material disponibilizado
 
  
 
-## 📋 Script!
+## 📝 Script!
 O script para consulta ao banco de dados pode ser encontrado no link: https://github.com/DevPhde/Dashboard-GoT/tree/main/SQL
