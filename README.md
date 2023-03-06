@@ -24,18 +24,47 @@ Material disponibilizado
 
 
 ## 📦 Perguntas respondidas!
-1 - Quais os 10 personagens que mais aparecem na série?
-![1 - quais os 10 personagens que mais aparecem na série](https://user-images.githubusercontent.com/47571290/222985654-a3dcaf16-90a4-4eac-b41d-394dc58d608b.png)
-2 - Quantos episódios cada diretor participou?
-![2 - Quantos episódios cada diretor participou](https://user-images.githubusercontent.com/47571290/222985507-11efe74c-c9f8-4bb2-81c0-e3fc61a3199d.png)
-3 - Indicação por estrela?
-![3 - Soma de indicação por estrela](https://user-images.githubusercontent.com/47571290/222985542-121d42ca-96f4-4028-a6f4-ed8d1c1b52a6.png)
-4 - Quantos minutos tem cada temporada?
-![4 - Soma de minutos por temporada](https://user-images.githubusercontent.com/47571290/222985565-1b7b50c1-dd07-4a87-9b05-94f6d61a37e5.png)
-5 - Quantas casas existem em cada região?
-![5 - Soma de casas por região](https://user-images.githubusercontent.com/47571290/222985607-ddd49625-ca04-4264-b67c-eee069ed015f.png)
 
- 
+<details><summary><strong>1 - Quais os 10 personagens que mais aparecem na série?</strong></summary>
+  <div style="display: flex; justify-content:space-evenly;">
+    <img src="https://user-images.githubusercontent.com/47571290/222985654-a3dcaf16-90a4-4eac-b41d-394dc58d608b.png" width="500px"/>
+        <img src="https://raw.githubusercontent.com/DevPhde/Dashboard-GoT/main/SQL/1.png" width="500px"/>
+  </div>
+    
+</details>&nbsp;
+
+<details><summary><strong>2 - Quantos episódios cada diretor participou?</strong></summary> 
+  <div style="display: flex; justify-content:space-evenly;">
+    <img src="https://user-images.githubusercontent.com/47571290/222985507-11efe74c-c9f8-4bb2-81c0-e3fc61a3199d.png" width="500px"/>
+        <img src="https://raw.githubusercontent.com/DevPhde/Dashboard-GoT/main/SQL/2.PNG" width="500px"/>
+  </div>
+    
+</details>&nbsp;
+
+<details><summary><strong>3 - Indicação por estrela?</strong></summary> 
+  <div style="display: flex; justify-content:space-evenly;">
+    <img src="https://user-images.githubusercontent.com/47571290/222985542-121d42ca-96f4-4028-a6f4-ed8d1c1b52a6.png" width="500px"/>
+        <img src="https://raw.githubusercontent.com/DevPhde/Dashboard-GoT/main/SQL/3.PNG" width="500px"/>
+  </div>
+    
+</details>&nbsp;
+
+<details><summary><strong>4 - Quantos minutos tem cada temporada?</strong></summary> 
+  <div style="display: flex; justify-content:space-evenly;">
+    <img src="https://user-images.githubusercontent.com/47571290/222985565-1b7b50c1-dd07-4a87-9b05-94f6d61a37e5.png" width="500px"/>
+           <img src="https://raw.githubusercontent.com/DevPhde/Dashboard-GoT/main/SQL/4.PNG" width="500px"/>
+  </div>
+    
+</details>&nbsp;
+
+<details><summary><strong>5 - Quantas casas existem em cada região?</strong></summary> 
+  <div style="display: flex; justify-content:space-evenly;">
+    <img src="https://user-images.githubusercontent.com/47571290/222985607-ddd49625-ca04-4264-b67c-eee069ed015f.png" width="500px"/>
+           <img src="https://raw.githubusercontent.com/DevPhde/Dashboard-GoT/main/SQL/5.PNG" width="500px"/>
+  </div>
+    
+</details>&nbsp;
+    
 
 ## 📝 Script!
 O script para consulta ao banco de dados pode ser encontrado no link: https://github.com/DevPhde/Dashboard-GoT/tree/main/SQL
